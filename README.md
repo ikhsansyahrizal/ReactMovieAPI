@@ -1,2 +1,0 @@
-# ReactMovieAPI
-Popular Movie Website
